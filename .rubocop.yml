@@ -1,6 +1,6 @@
 AllCops:
   Exclude:
-    - _site/**/*
+    - _http://www.satya22.com
 
 Metrics/LineLength:
   Enabled: false
